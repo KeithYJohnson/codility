@@ -39,3 +39,6 @@ end
 # a = [4, 3, 4, 4, 4, 2]
 a = [4, 4, 2, 5, 3, 4, 4, 4]
 p solution(a)
+
+
+# Faster solution here - https://github.com/mrhead/codility/blob/master/equi_leader.rb
