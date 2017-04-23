@@ -16,3 +16,6 @@ A = [3, 8, 9, 7, 6]
 K = 3
 
 print(solution(A, K))
+
+
+# Much nicer solution here - https://codesays.com/2016/solution-to-cyclic-rotation-by-codility/
